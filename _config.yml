@@ -79,7 +79,7 @@ theme: shoka # edit for Theme.shoka
 deploy:
   type: git
   repo: https://github.com/sweetliquid/sweetliquid.github.io
-  branch: gh-pages
+  branch: src
   message: deploy by hexo
 
 # edit for Theme.shoka
