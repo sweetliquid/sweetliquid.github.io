@@ -77,7 +77,10 @@ theme: shoka # edit for Theme.shoka
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/sweetliquid/sweetliquid.github.io
+  branch: gh-pages
+  message: deploy by hexo
 
 # edit for Theme.shoka
 autoprefixer:
