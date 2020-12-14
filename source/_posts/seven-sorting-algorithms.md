@@ -217,3 +217,5 @@ describe('sort', () => {
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
    ></iframe>
+
+[![Edit Sort](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/sort-z9cll?fontsize=14&hidenavigation=1&module=%2Fsrc%2Fsort.ts&previewwindow=tests&theme=dark)
